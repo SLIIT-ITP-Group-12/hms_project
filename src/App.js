@@ -17,8 +17,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React with Dinuka Thejan and Tharushi Perera
-        </a>
+          Learn React with Dinuka Thejan and Susi
       </header>
     </div>
   );
